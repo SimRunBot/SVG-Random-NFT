@@ -1,0 +1,3 @@
+npx hardhat verify --network <NETWORK> <CONTRACT_ADDRESS> <CONSTRUCTOR_PARAMETERS>
+npx hardhat verify --constructor-args arguments.js --network <NETWORK> DEPLOYED_CONTRACT_ADDRESS
+npx hardhat verify --contract contracts/Example.sol:ExampleContract <other args>

@@ -1,0 +1,1 @@
+npm install --save-dev hardhat @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-waffle ethereum-waffle chai dotenv @nomiclabs/hardhat-etherscan @openzeppelin/contracts hardhat-contract-sizer hardhat-gas-reporter
