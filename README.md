@@ -1,4 +1,5 @@
 # Onchain SVG Random Art NFT
+## UPDATE: since rinkeby  testnet has been deprecated this collection no longer shows on testnet opensea
 
 This project demonstrates a complete onchain art ERC721 NFT using SVG for image generation in the tokenURI function and Chainlink VRF random values as random input.
 
